@@ -1,3 +1,8 @@
+jupyterlab
+requests
+pandas
+textblob
+plotly-express
 voila
-voila-material
-bqplot
+plotly
+numpy
